@@ -1,0 +1,97 @@
+body{
+  margin: 0;
+  background-image: url:()
+  background-size: cover;
+  padding: 0;
+  background: url("https://cdn.glitch.com/87592db0-d9ce-44e2-80af-9d1e2563e6fe%2F035eb37c43dbcb2cba7a55b68ee11464.png?v=1621451699812");
+  background-size: 100%;
+  font-family: "Comfortaa" , sans-serif;
+  
+}
+
+
+.login {
+  width: 320px;
+  heigth: 420px;
+  border: 2px solid #000;
+  border-radius: 80px 0px 80px 0px;
+  color: #fff;
+  background-color: rgba(0,0,5,8);
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  box-sizing: border-box;
+  padding: 68px 28px;
+}
+
+
+.usuario{
+  border-radius: 50%;
+  position: absolute;
+  top: -20%;
+  left: 112px;
+}
+
+h1{
+  margin: 0;
+  padding-top: 0;
+  padding-left: 0;
+  padding-botton: 20px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 25px;
+  
+}
+
+
+.login p {
+  margin: 0;
+  padding:0;
+  font-wegth: hold;
+}
+
+
+.login input{
+  width: 100%;
+  margin-botton: 21px;
+}
+
+.login input[type="text"], input[type="password"]{
+  border: none;
+  border-bottom: 1px solid white;
+  background: transparent;
+  outline: none;
+  heigth: 20%;
+  color: white;
+  font-size: 25px;
+  
+}
+
+.login input[type="submit"]{
+  border: none;
+  outline: none;
+  heigth: 35px;
+  color: #000;
+  background: #fff;
+  border-radius: 20px;
+  transition: 0.2s;
+}
+.login input[type="submit"]:hover{
+  cursor: pointer;
+  background: #fff4d4d;
+  tranition: 0.2s
+}
+
+.login a {
+  font-wegth: bold;
+}
+
+
+
+
+
+    
+
+
